@@ -22,10 +22,6 @@ printf("Processes Burst time Waiting time Turn around
 time\n");
 for (int i=0; i<n; i++)
 {
-COMPUTER SCIENCE AND ENGINEERING
-FACILITY OF ENGINEERING AND TECHNOLOGY
-OPERATING SYSTEM (303105252)
-ENROLLMENT NO: 2203031241175
 \total_wt = total_wt + wt[i];
 total_tat = total_tat + tat[i];
 printf(" %d ",(i+1));
